@@ -51,3 +51,9 @@ while True:
  print("FOLLOWED! JUMPING TO ID: " + af )
  f.close()
  time.sleep(3)
+
+cd C:\path\to\directory\
+
+pip install selenium
+
+python run.py
